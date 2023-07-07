@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="myapp">Submit here</string>
+    <string name="field"></string>
+    <string name="imageview">TODO</string>
+</resources>
+
